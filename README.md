@@ -41,6 +41,7 @@ An important paradigm of natural language processing consists of large-scale pre
 
 - **Peft:** A library that implements techniques like LORA to facilitate efficient training of large language models.
 - ![1_gUr-3mrzXWeI1UbV4l-kLg](https://github.com/CNS-PRADHYUMNA/llama2v2_peft/assets/152390152/5664598d-e90b-43cf-8fbb-0f0bb57ed58e)
+- ![0_SOHsccmwk52jgKzm](https://github.com/CNS-PRADHYUMNA/llama2v2_peft/assets/152390152/f80f59e6-781e-4d86-a094-bc1b103e0b26)
 
 
 ### 🎓 Model Training
